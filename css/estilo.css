@@ -1,0 +1,25 @@
+#mostrador {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 252px;
+}
+
+#mostrador p {
+    float: left;   
+}
+
+.espaco {
+    width: 80px;
+    height: 70px;
+    border: 2px solid #000;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.tabuleiro {
+    width: 252px;
+    height: 252px;
+    margin: auto;
+}
